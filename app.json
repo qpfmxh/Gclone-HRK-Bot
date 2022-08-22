@@ -1,7 +1,7 @@
 {
 	"name": "GClone-HRK-Bot",
 	"description": "Gclone Telegram Bot",
-	"repository": "https://github.com/Zero-The-Kamisama/Gclone-HRK-Bot",
+	"repository": "https://github.com/qpfmxh/Gclone-HRK-Bot",
 	"keywords": ["Gclone","TG"],
 	"env": {
 		"BOT_TOKEN": {
